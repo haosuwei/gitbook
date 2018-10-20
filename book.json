@@ -7,20 +7,21 @@
 	"github",
 	"editlink",
 	"prism",
-	"-highlight",
+	"highlight",
 	"baidu",
 	"splitter",
-	"sitemap"
+	"sitemap",
+	"toggle-chapters"
 ],
 "pluginsConfig": {
 	"disqus": {
 		"shortName": "haosuwei-handbook"
 	},
 	"github": {
-		"url": "https://github.com/haosuwei/gitbook_test"
+		"url": "https://github.com/haosuwei/gitbook_repo"
 	},
 	"editlink": {
-		"base": "https://github.com/haosuwei",
+		"base": "https://github.com/haosuwei/gitbook_repo",
 		"label": "编辑本页"
 	},
 	"baidu": {
