@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Kaldi简介](chapter1/README.md)
-* [Kaldi安装](chapter2/README.md)
-  * [环境准备](chapter2/环境准备.md)
-  
+* [Kaldi简介](Kaldi简介/README.md)
+* [Kaldi安装](Kaldi安装/README.md)
+    * [环境准备](Kaldi安装/环境准备.md)
+
