@@ -20,15 +20,15 @@
 		"url": "https://github.com/haosuwei/gitbook_repo"
 	},
 	"editlink": {
-		"base": "https://github.com/haosuwei/gitbook_repo",
+		"base": "https://github.com/haosuwei/gitbook_repo/tree/master",
 		"label": "编辑本页"
 	},
 	"sitemap": {
 		"hostname": "http://207.246.65.68:4000"
 	},
 	"search-pro": {
-        "cutWordLib": "nodejieba",
-        "defineWord" : ["Gitbook Use"]
+	        "cutWordLib": "nodejieba",
+        	"defineWord" : ["Gitbook Use"]
     }
 }
 }
